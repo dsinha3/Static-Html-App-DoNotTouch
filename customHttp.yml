@@ -3,7 +3,3 @@ customHeaders:
     headers:
     - key: 'custom-header-name-1'
       value: 'custom-header-value-1'
-  - pattern: '/image-optimization-imported/*'
-    headers:
-    - key: 'my-header'
-      value: 'my-value'
